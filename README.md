@@ -55,4 +55,4 @@ A foodiebackend of Java/Spring boot backend and Postgres datastore
 
 以下技術堆疊地圖提供完整的元件概覽，分為核心必備與可選擴充項目。
 
-| 類別       | 核心元件 (免費)                                                                                                                               | 可選擴充 (免費)                                                                                                                                 | 文件連結
+                                                                                               
