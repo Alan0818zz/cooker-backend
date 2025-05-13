@@ -44,7 +44,7 @@ A foodiebackend of Java/Spring boot backend and Postgres datastore
 | 元件                  | 鎖定版本  | 最新版本  | 狀態 | 支援期限    |
 | ------------------- | ----- | ----- | -- | ------- |
 | **PostgreSQL**      | 17.5  | 17.5  | 穩定 | 2029/11 |
-| **Java**            | 24    | 24    | 穩定 | 2029/9  |
+| **Java**            | 17   | 24    | 穩定 | 2029/9  |
 | **Spring Boot**     | 3.4.5 | 3.4.5 | 穩定 | 2025/12 |
 | **Hibernate**       | 6.2.0 | 6.2.0 | 穩定 | -       |
 | **Spring Security** | 6.4.4 | 6.4.4 | 穩定 | -       |
